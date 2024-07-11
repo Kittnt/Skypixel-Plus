@@ -1,4 +1,8 @@
 # Skypixel
 A mod providing useful things for Hypixel Skyblock.
+Discontinued by prplz and picked up again by Kittnt.
 
-Discontinued because I end up playing for way too many hours.
+Features:
+-
+
+I would not recommend trying to compile this yourself before the first release.
