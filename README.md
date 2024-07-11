@@ -1,4 +1,4 @@
-# Skypixel
+# Skypixel+
 A mod providing useful things for Hypixel Skyblock.
 Discontinued by prplz and picked up again by Kittnt.
 
