@@ -3,6 +3,7 @@ A mod providing useful things for Hypixel Skyblock.
 Discontinued by prplz and picked up again by Kittnt.
 
 Planned Features:
+-
 - Anvil uses in tooltip
 - Item IDs in tooltip
 - Item tiers as stack size
